@@ -7,3 +7,10 @@ import myPlot
 use_gpu = torch.cuda.is_available()
 print(use_gpu)
 print(torch.version.cuda)
+
+
+
+
+
+
+print("testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest")
